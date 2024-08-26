@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1",
+    "precio": 25.99,
+    "descripcion": "Descripción del producto 1.",
+    "imagen": "https://example.com/image1.jpg",
+    "categoria": "Electrónica",
+    "image": "https://example.com/image1.jpg",
+    "clasificacion": {
+      "rate": 4.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Producto 2",
+    "precio": 15.49,
+    "descripcion": "Descripción del producto 2.",
+    "imagen": "https://example.com/image2.jpg",
+    "categoria": "Hogar",
+    "image": "https://example.com/image2.jpg",
+    "clasificacion": {
+      "rate": 4.0,
+      "count": 95
+    }
+  },
+  {
+    "id": 3,
+    "title": "Producto 3",
+    "precio": 45.0,
+    "descripcion": "Descripción del producto 3.",
+    "imagen": "https://example.com/image3.jpg",
+    "categoria": "Ropa",
+    "image": "https://example.com/image3.jpg",
+    "clasificacion": {
+      "rate": 3.8,
+      "count": 150
+    }
+  },
+  {
+    "id": 4,
+    "title": "Producto 4",
+    "precio": 8.99,
+    "descripcion": "Descripción del producto 4.",
+    "imagen": "https://example.com/image4.jpg",
+    "categoria": "Libros",
+    "image": "https://example.com/image4.jpg",
+    "clasificacion": {
+      "rate": 4.9,
+      "count": 200
+    }
+  },
+  {
+    "id": 5,
+    "title": "Producto 5",
+    "precio": 35.0,
+    "descripcion": "Descripción del producto 5.",
+    "imagen": "https://example.com/image5.jpg",
+    "categoria": "Deportes",
+    "image": "https://example.com/image5.jpg",
+    "clasificacion": {
+      "rate": 4.3,
+      "count": 80
+    }
+  },
+  {
+    "id": 6,
+    "title": "Producto 6",
+    "precio": 19.99,
+    "descripcion": "Descripción del producto 6.",
+    "imagen": "https://example.com/image6.jpg",
+    "categoria": "Juguetes",
+    "image": "https://example.com/image6.jpg",
+    "clasificacion": {
+      "rate": 4.7,
+      "count": 220
+    }
+  },
+  {
+    "id": 7,
+    "title": "Producto 7",
+    "precio": 99.99,
+    "descripcion": "Descripción del producto 7.",
+    "imagen": "https://example.com/image7.jpg",
+    "categoria": "Tecnología",
+    "image": "https://example.com/image7.jpg",
+    "clasificacion": {
+      "rate": 4.1,
+      "count": 50
+    }
+  },
+  {
+    "id": 8,
+    "title": "Producto 8",
+    "precio": 22.49,
+    "descripcion": "Descripción del producto 8.",
+    "imagen": "https://example.com/image8.jpg",
+    "categoria": "Accesorios",
+    "image": "https://example.com/image8.jpg",
+    "clasificacion": {
+      "rate": 3.9,
+      "count": 110
+    }
+  },
+  {
+    "id": 9,
+    "title": "Producto 9",
+    "precio": 12.5,
+    "descripcion": "Descripción del producto 9.",
+    "imagen": "https://example.com/image9.jpg",
+    "categoria": "Belleza",
+    "image": "https://example.com/image9.jpg",
+    "clasificacion": {
+      "rate": 4.4,
+      "count": 130
+    }
+  },
+  {
+    "id": 10,
+    "title": "Producto 10",
+    "precio": 49.99,
+    "descripcion": "Descripción del producto 10.",
+    "imagen": "https://example.com/image10.jpg",
+    "categoria": "Electrodomésticos",
+    "image": "https://example.com/image10.jpg",
+    "clasificacion": {
+      "rate": 4.2,
+      "count": 60
+    }
+  }
+]
